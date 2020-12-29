@@ -1,1 +1,1 @@
-console.log("ooo")
+console.log("ooo, zdr")
